@@ -5,16 +5,14 @@ import { TextInput, FlatList } from 'react-native';
 
 
 const data = [
-    { id: '1', location: 'Hg3+QFJ, Laghouat' },
-    { id: '2', location: 'Charchafa, Laghouat' },
-    { id: '3', location: 'Al ghouati, Aflou' },
-    { id: '4', location: 'RV93+QFJ, Kheng' },
-    { id: '5', location: 'RV93+QFJ, Laghouat' },
-    { id: '6', location: 'RV93+QFJ, Laghouat' },
-    { id: '7', location: 'RV93+QFJ, Laghouat' },
-    { id: '8', location: 'RV93+QFJ, Laghouat' },
-    { id: '9', location: 'RV93+QFJ, Laghouat' },
-    { id: '10', location: 'RV93+QFJ, Laghouat' },
+    { id: '1', location: 'Location 1' },
+    { id: '2', location: 'Location 2' },
+    { id: '3', location: 'Location 3' },
+    { id: '4', location: 'Location 4' },
+    { id: '5', location: 'Location 5' },
+    { id: '6', location: 'Location 6' },
+    { id: '7', location: 'Location 7' },
+    { id: '8', location: 'Location 8' },
   ];
 export default Home=({navigation})=>{
 
