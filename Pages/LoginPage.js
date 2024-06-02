@@ -18,7 +18,7 @@ export default function Login({ navigation }) {
           style={styles.headerImg}
           alt='logo'/>
           <Text style={styles.title}>LOGIN</Text>
-          <Text style={styles.subTitle}>Get this app in your hands and fully access</Text>
+          <Text style={styles.subTitle}>Login your account</Text>
         </View>
         {/* Forms */}
         <View style={styles.shadowBox}>
